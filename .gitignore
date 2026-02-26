@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+responses/
+data/
+scoring/*.csv
+.DS_Store
+config.py
