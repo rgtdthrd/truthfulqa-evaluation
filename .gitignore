@@ -1,7 +1,9 @@
 __pycache__/
 .vscode/
-responses/
-data/
+responses/*
+data/*
 scoring/*.csv
 .DS_Store
 config.py
+!responses/.gitkeep
+!data/.gitkeep
