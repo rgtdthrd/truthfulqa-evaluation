@@ -1,6 +1,7 @@
 __pycache__/
 .vscode/
 responses/*
+docs/*
 data/*
 scoring/*.csv
 .DS_Store
