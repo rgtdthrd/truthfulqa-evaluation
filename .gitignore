@@ -5,5 +5,6 @@ data/*
 scoring/*.csv
 .DS_Store
 config.py
+*.txt
 !responses/.gitkeep
 !data/.gitkeep
